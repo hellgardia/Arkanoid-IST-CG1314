@@ -1,0 +1,32 @@
+﻿Build started 12/11/2013 00:42:58.
+     1>Project "C:\Users\Ricardo\Dropbox\CG1314\Computação Gráfica\Projectos\ArkanoidOP\ArkanoidOP\ArkanoidOP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\João Carraquico\Dropbox\CG1314\Computação Gráfica\Projectos\glut\include" /I"C:\Users\João Carraquico\Dropbox\CG1314\Computação Gráfica\Projectos\glut\include\GL" /I"C:\Users\Ricardo\Dropbox\CG1314\Computação Gráfica\Projectos\glut\include" /I"C:\Users\João\Dropbox\CG1314\Computação Gráfica\Projectos\glut\include" /IC:\Users\Pedro\ist\CG\cg13\glut\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D GLUT /D _BUILDING /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt GreenBlock.cpp OrangeBlock.cpp RedBlock.cpp VioletBlock.cpp YellowBlock.cpp
+         YellowBlock.cpp
+         VioletBlock.cpp
+         RedBlock.cpp
+         OrangeBlock.cpp
+         GreenBlock.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ricardo\Dropbox\CG1314\Computação Gráfica\Projectos\ArkanoidOP\Debug\ArkanoidOP.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\João Carraquico\Dropbox\CG1314\Computação Gráfica\Projectos\glut\lib" /LIBPATH:"C:\Users\Ricardo\Dropbox\CG1314\Computação Gráfica\Projectos\glut\lib" /LIBPATH:C:\Users\Pedro\ist\CG\cg13\glut\lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ricardo\Dropbox\CG1314\Computação Gráfica\Projectos\ArkanoidOP\Debug\ArkanoidOP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ricardo\Dropbox\CG1314\Computação Gráfica\Projectos\ArkanoidOP\Debug\ArkanoidOP.lib" /MACHINE:X86 Debug\Ball.obj
+         Debug\Block.obj
+         Debug\Boundaries.obj
+         Debug\Camera.obj
+         Debug\GameManager.obj
+         Debug\GreenBlock.obj
+         Debug\Launcher.obj
+         Debug\OrangeBlock.obj
+         Debug\Ortho.obj
+         Debug\Perspective.obj
+         Debug\Ship.obj
+         Debug\RedBlock.obj
+         Debug\BlueBlock.obj
+         Debug\VioletBlock.obj
+         Debug\YellowBlock.obj
+         ArkanoidOP.vcxproj -> C:\Users\Ricardo\Dropbox\CG1314\Computação Gráfica\Projectos\ArkanoidOP\Debug\ArkanoidOP.exe
+     1>Done Building Project "C:\Users\Ricardo\Dropbox\CG1314\Computação Gráfica\Projectos\ArkanoidOP\ArkanoidOP\ArkanoidOP.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.94

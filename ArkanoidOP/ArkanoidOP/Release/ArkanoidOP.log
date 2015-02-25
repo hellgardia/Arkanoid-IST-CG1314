@@ -1,0 +1,39 @@
+﻿Build started 07/12/2013 10:39:24.
+     1>Project "C:\Users\Ricardo\Dropbox\CG1314\Computação Gráfica\Projectos\ArkanoidOP\ArkanoidOP\ArkanoidOP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Ball.cpp Block.cpp Boundaries.cpp Camera.cpp GameManager.cpp GreenBlock.cpp Launcher.cpp BronzeBlock.cpp Ortho.cpp Perspective.cpp Ship.cpp RedBlock.cpp CyanBlock.cpp WhiteBlock.cpp YellowBlock.cpp
+         Ball.cpp
+     1>c:\users\ricardo\dropbox\cg1314\computação gráfica\projectos\arkanoidop\arkanoidop\Ball.h(9): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+         Block.cpp
+     1>c:\users\ricardo\dropbox\cg1314\computação gráfica\projectos\arkanoidop\arkanoidop\Block.h(6): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+         Boundaries.cpp
+     1>c:\users\ricardo\dropbox\cg1314\computação gráfica\projectos\arkanoidop\arkanoidop\Boundaries.h(6): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+         Camera.cpp
+     1>c:\users\ricardo\dropbox\cg1314\computação gráfica\projectos\arkanoidop\arkanoidop\Camera.h(5): fatal error C1083: Cannot open include file: 'gl/glut.h': No such file or directory
+         GameManager.cpp
+     1>c:\users\ricardo\dropbox\cg1314\computação gráfica\projectos\arkanoidop\arkanoidop\GameManager.h(11): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+         GreenBlock.cpp
+     1>c:\users\ricardo\dropbox\cg1314\computação gráfica\projectos\arkanoidop\arkanoidop\GreenBlock.h(5): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+         Launcher.cpp
+     1>c:\users\ricardo\dropbox\cg1314\computação gráfica\projectos\arkanoidop\arkanoidop\GameManager.h(11): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+         BronzeBlock.cpp
+     1>c:\users\ricardo\dropbox\cg1314\computação gráfica\projectos\arkanoidop\arkanoidop\BronzeBlock.h(5): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+         Ortho.cpp
+     1>c:\users\ricardo\dropbox\cg1314\computação gráfica\projectos\arkanoidop\arkanoidop\Ortho.h(5): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+         Perspective.cpp
+     1>c:\users\ricardo\dropbox\cg1314\computação gráfica\projectos\arkanoidop\arkanoidop\Perspective.h(6): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+         Ship.cpp
+     1>c:\users\ricardo\dropbox\cg1314\computação gráfica\projectos\arkanoidop\arkanoidop\Ship.h(6): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+         RedBlock.cpp
+     1>c:\users\ricardo\dropbox\cg1314\computação gráfica\projectos\arkanoidop\arkanoidop\RedBlock.h(5): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+         CyanBlock.cpp
+     1>c:\users\ricardo\dropbox\cg1314\computação gráfica\projectos\arkanoidop\arkanoidop\CyanBlock.h(5): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+         WhiteBlock.cpp
+     1>c:\users\ricardo\dropbox\cg1314\computação gráfica\projectos\arkanoidop\arkanoidop\WhiteBlock.h(5): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+         YellowBlock.cpp
+     1>c:\users\ricardo\dropbox\cg1314\computação gráfica\projectos\arkanoidop\arkanoidop\YellowBlock.h(5): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+     1>Done Building Project "C:\Users\Ricardo\Dropbox\CG1314\Computação Gráfica\Projectos\ArkanoidOP\ArkanoidOP\ArkanoidOP.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.87
